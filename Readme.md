@@ -84,7 +84,7 @@ for more information.
 ```bash
 npm install -g express-generator@4
 ```
-
+bnu
   Create the app:
 
 ```bash
